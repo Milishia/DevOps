@@ -1,0 +1,1 @@
+web: java -jar targe/Geroku01.jar
