@@ -1,1 +1,1 @@
-web: java -jar targe/Heroku01.jar
+web: java -jar target/Heroku01.jar
