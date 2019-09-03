@@ -1,1 +1,1 @@
-web: java -jar targe/Geroku01.jar
+web: java -jar targe/Heroku01.jar
